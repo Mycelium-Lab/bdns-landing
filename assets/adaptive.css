@@ -128,13 +128,14 @@
     height: 45px;
     font-size: 14px;
   }
-  .title-inner {
+  .description__title {
     font-size: 25px;
     gap: 10px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
   }
-  .title-inner span {
+  .description__subtitle {
     font-size: 20px;
+    margin-bottom: 25px;
   }
   .description__text {
     font-size: 18px;
@@ -155,6 +156,7 @@
   }
   .advantages-item__number {
     font-size: 180px;
+    bottom: -40px;
   }
   .advantages-item {
     padding: 40px 30px;

@@ -9,6 +9,10 @@ body * {
   box-sizing: border-box;
 }
 
+body.hidden {
+  overflow: hidden;
+}
+
 h1,
 h2,
 h3 {
@@ -212,22 +216,20 @@ option:focus {
   box-shadow: 0px 1px 6px 1px rgba(245, 203, 96, 0.9);
 }
 
-.title-inner {
+.description__title {
   font-size: 50px;
   font-weight: 800;
   color: #c6a15a;
-  gap: 17px;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 43px;
   text-transform: uppercase;
+  margin-bottom: 17px;
 }
 
-.title-inner span {
+.description__subtitle {
   font-size: 30px;
   font-weight: 800;
   color: #fff;
   text-transform: capitalize;
+  margin-bottom: 43px;
 }
 
 .tar {
@@ -345,7 +347,8 @@ option:focus {
 }
 
 .advantages-item:nth-child(even) .advantages-item__number {
-  right: 30px;
+  right: -11px;
+  left: auto;
 }
 
 .advantages-item__number {
@@ -355,8 +358,8 @@ option:focus {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   position: absolute !important;
-  top: -60px;
-  left: 30px;
+  bottom: -48px;
+  left: -9px;
 }
 
 .advantages-item__title {
@@ -448,6 +451,7 @@ option:focus {
 
 .footer__links {
   display: flex;
+  align-items: flex-start;
   flex-direction: column;
   gap: 5px;
 }
