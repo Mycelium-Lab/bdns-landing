@@ -62,7 +62,7 @@
     background-color: #515151;
   }
   .header::before {
-    background-image: url('/img/mobile/polegon-mobile.svg');
+    background-image: url('/img/mobile/polegon-mobile.png');
     width: 304px;
     height: 878px;
   }
@@ -145,7 +145,7 @@
     padding-bottom: 78px;
   }
   .description::before {
-    background-image: url('/img/mobile/cube-mobile.svg');
+    background-image: url('/img/mobile/cube-mobile.png');
     width: 130px;
     height: 303px;
     top: -10px;
@@ -179,7 +179,7 @@
     gap: 20px;
   }
   .advantages::before {
-    background-image: url('/img/mobile/distorted-mobile.svg');
+    background-image: url('/img/mobile/distorted-mobile.png');
     width: 169px;
     height: 361px;
     top: -86px;
@@ -203,7 +203,7 @@
     padding-bottom: 50px;
   }
   .footer::before {
-    background-image: url('/img/mobile/distorted-sphere-mobile.svg');
+    background-image: url('/img/mobile/distorted-sphere-mobile.png');
     width: 299px;
     height: 935px;
     bottom: 30px;
