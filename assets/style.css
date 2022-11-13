@@ -90,26 +90,48 @@ ul {
   color: #e5e5e5;
 }
 
+.main-nav__lang {
+  font-size: 14px;
+  font-weight: 700;
+}
+
 .main-nav__link:hover {
   color: #c6a15a;
   transition: all 0.3s ease;
 }
 
 .main-nav__lang {
+  position: relative;
   background-color: rgba(198, 161, 90, 0.2);
   padding: 6px 7px;
   color: #c6a15a;
   border: 0;
+  padding-right: 23px;
+  background-image: url("../img/arr-select.svg");
+  background-repeat: no-repeat;
+  background-position: right 5px top 11px;
 }
 
-.lang {
+.main-nav__lang {
+	/* for Firefox */
+	-moz-appearance: none;
+	/* for Chrome */
+	-webkit-appearance: none;
+}
+
+.main-nav__lang::-ms-expand {
+	/* IE */
+	display: none;
+}
+
+/* .lang {
   position: relative;
   display: flex;
   flex-direction: column;
   background-color: #433b2f;
   gap: 5px;
   padding: 6px 7px;
-}
+} */
 
 .lang__items {
   display: flex;
@@ -172,7 +194,7 @@ option:focus {
 }
 
 .first-block {
-  padding-bottom: 250px;
+  padding-bottom: 200px;
 }
 
 .first-block__title {
@@ -222,6 +244,7 @@ option:focus {
   color: #c6a15a;
   text-transform: uppercase;
   margin-bottom: 17px;
+  padding-top: 50px;
 }
 
 .description__subtitle {
@@ -250,11 +273,13 @@ option:focus {
   background-size: contain;
   left: 0;
   top: -70px;
-  z-index: -1;
+  z-index: 1;
 }
 
 .description__wrapper {
   padding-bottom: 210px;
+  position: relative;
+  z-index: 2;
 }
 
 .description__text {
@@ -268,9 +293,13 @@ option:focus {
 
 .advantages {
   background-color: #2b2b2b;
-  padding-top: 75px;
+  padding-top: 35px;
   padding-bottom: 155px;
   position: relative;
+}
+
+.advantages__wrapper {
+  padding-top: 50px;
 }
 
 .advantages::before {
@@ -386,7 +415,7 @@ option:focus {
 }
 
 .footer__wrapper {
-  padding-top: 95px;
+  padding-top: 45px;
   padding-bottom: 190px;
   position: relative;
   z-index: 1;
