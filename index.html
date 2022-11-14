@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="/fonts/stylesheet.css">
 
 </head>
-
 <body>
     <header class="header">
         <div class="_container">
@@ -30,12 +29,16 @@
                     <a href="#whitepapper" class="main-nav__link">Whitepaper</a>
                     <a href="#community" class="main-nav__link">Community</a>
                     <a href="#contacts" class="main-nav__link">Contacts</a>
-                    <select class="main-nav__lang" name="" id="">
-                        <option value="en" selected>EN</option>
-                        <option value="dn">DN</option>
-                        <option value="es">ES</option>
-                        <option value="ch">CH</option>
-                    </select>
+                    <form action="">
+                        <p>
+                            <select class="main-nav__lang turnintodropdown" name="" id="">
+                                <option value="en" selected>EN</option>
+                                <option value="de">DE</option>
+                                <option value="es">ES</option>
+                                <option value="ch">CH</option>
+                            </select>
+                        </p>
+                    </form>
                 </nav>
                 <div class="header__burger" id="burger">
                     <span></span><span></span>
@@ -45,10 +48,10 @@
     </header>
     <div class="wrapper">
         <div class="first-block _container">
-            <h1 class="first-block__title">
+            <h1 class="first-block__title lng-first-block-title">
                 BLOCKCHAIN DOMAIN <br> NAME SERVICE
             </h1>
-            <p class="first-block__subtitle">Proudly Introduces Name-Only Domains (NODs)</p>
+            <p class="first-block__subtitle lng-first-block-subtitle">Proudly Introduces Name-Only Domains (NODs)</p>
             <div class="first-block__btns">
                 <a href="" class="btn-default">Whitepaper</a>
                 <a href="" class="btn-default">Register your domain</a>
@@ -57,7 +60,7 @@
         <div class="description  tar">
             <div class="_container">
                 <div class="description__wrapper">
-                    <h2 class="description__title" id="about">
+                    <h2 class="description__title lng-description-title" id="about">
                         What is BDNS?
                     </h2>
                     <p class="description__subtitle lng-description-subtitle">Introducing Blockchain Domain <br>
@@ -78,7 +81,7 @@
         <div class="advantages">
             <div class="_container">
                 <div class="advantages__wrapper" id="whitepapper">
-                    <h2 class="advantages__title">
+                    <h2 class="advantages__title lng-advantages-title">
                         What you get
                     </h2>
                     <ul class="advantages__list">
@@ -99,7 +102,6 @@
                             </div>
                         </li>
                         <li class="advantages__item advantages-item">
-
                             <div class="advantages-item__header">
                                 <span class="advantages-item__number">2</span>
                                 <h2 class="advantages-item__title lng-advantages-item2-title">Fair Pricing</h2>
@@ -213,15 +215,12 @@
                 </div>
             </div>
         </div>
-
     </footer>
     <script src="https://code.jquery.com/jquery-3.6.1.js"
         integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
     <script src="/assets/script.js"></script>
     <script src="/assets/lang.js"></script>
     <script src="/assets/app.js"></script>
-
-
 </body>
 
 </html>

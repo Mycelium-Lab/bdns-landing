@@ -93,14 +93,6 @@ ul {
 .main-nav__lang {
   font-size: 14px;
   font-weight: 700;
-}
-
-.main-nav__link:hover {
-  color: #c6a15a;
-  transition: all 0.3s ease;
-}
-
-.main-nav__lang {
   position: relative;
   background-color: rgba(198, 161, 90, 0.2);
   padding: 6px 7px;
@@ -109,19 +101,24 @@ ul {
   padding-right: 23px;
   background-image: url("../img/arr-select.svg");
   background-repeat: no-repeat;
-  background-position: right 6px top 11px;
+  background-position: right 6px center;
 }
 
 .main-nav__lang {
-	/* for Firefox */
-	-moz-appearance: none;
-	/* for Chrome */
-	-webkit-appearance: none;
+  /* for Firefox */
+  -moz-appearance: none;
+  /* for Chrome */
+  -webkit-appearance: none;
 }
 
 .main-nav__lang::-ms-expand {
-	/* IE */
-	display: none;
+  /* IE */
+  display: none;
+}
+
+.main-nav__link:hover {
+  color: #c6a15a;
+  transition: all 0.3s ease;
 }
 
 /* .lang {
