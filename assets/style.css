@@ -493,3 +493,8 @@ option:focus {
 .header__burger {
   display: none;
 }
+
+.form__search input {
+  border: 0.5px solid #C6A15A;
+  border-radius: 10px;
+}
