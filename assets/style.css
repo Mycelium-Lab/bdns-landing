@@ -60,7 +60,7 @@ ul {
   background-image: url("/img/polegon.png");
   background-repeat: no-repeat;
   background-size: contain;
-  right: 0;
+  right: -20px;
   top: 0;
   z-index: -1;
 }
