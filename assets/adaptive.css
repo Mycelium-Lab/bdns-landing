@@ -95,7 +95,7 @@
     position: relative;
   }
   .main-nav.active::before {
-    content:"";
+    content: "";
     position: fixed;
     background: #222224;
     width: 255px;
@@ -133,8 +133,9 @@
   }
   .btn-default {
     min-width: 220px;
-    height: 45px;
+    height: 40px;
     font-size: 14px;
+    line-height: 40px;
   }
   .description__title {
     font-size: 25px;
@@ -223,8 +224,38 @@
     height: 152px;
     bottom: 100px;
   }
-}
 
-#community {
-  padding-top: 50px;
+  #community {
+    padding-top: 50px;
+  }
+
+  .form {
+    gap: 25px;
+  }
+
+  .form__search {
+    max-width: 233px;
+  }
+
+  .form__btn {
+    min-width: 45px;
+    height: 30px;
+    font-size: 10px;
+  }
+
+  .form__search {
+    background-size: 13px 13px;
+    background-position: left 10px center;
+  }
+
+  .form__search input {
+    font-size: 10px;
+    padding-left: 34px;
+    padding-right: 60px;
+    height: 40px;
+  }
+
+  .form__search input::placeholder {
+    font-size: 10px;
+  }
 }

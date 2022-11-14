@@ -494,7 +494,59 @@ option:focus {
   display: none;
 }
 
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
+
+.form__search {
+  position: relative;
+  max-width: 808px;
+  width: 100%;
+  background-image: url("/img/glass.svg");
+  background-repeat: no-repeat;
+  background-position: left 18px center;
+  background-size: 20px 20px;
+}
+
 .form__search input {
-  border: 0.5px solid #C6A15A;
+  border: 0.5px solid #C6A15A25;
   border-radius: 10px;
+  height: 50px;
+  width: 100%;
+  padding-right: 100px;
+  padding-left: 60px;
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: 700;
+  color: #C6A15A;
+}
+
+.form__search input::placeholder {
+  font-size: 15px;
+  font-weight: 700;
+  color: #585858;
+}
+
+.form__search input:focus-visible {
+  outline: none;
+  border: 0.5px solid #C6A15A;
+}
+
+.form__btn {
+  position: absolute;
+  background-color: #C6A15A;
+  color: #222224;
+  font-size: 15px;
+  font-weight: 700;
+  height: 37px;
+  min-width: 89px;
+  border-radius: 5px;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
 }
