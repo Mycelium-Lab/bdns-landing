@@ -29,7 +29,7 @@ const langArr = {
     es: 'BDNS es el primer proveedor Mundial de dominios de sólo nombre (Name-Only-Domains) (NOD) en Ethereum. Los NODs son direcciones de monedero de sólo nombre y son minables en forma de tokens no fungibles (NFTs) que puedes configurar en cualquier monedero de Ethereum. Por ejemplo, en lugar de "Blockchain.eth", la dirección de su cartera de Ethereum se convierte simplemente en "Blockchain" con la compra y configuración de un BDNS NFT.',
     ch: `BDNS 是世界上第一个以太坊仅名的域名服务。 BDNS 可以以非同质代币 (NFT) 的形式铸造，您可以在仅名称的基础上将其配置为以太坊钱包地址。例如，通过购买和配置 BDNS NFT，您的以太坊钱包地址不再是“Blockchain.eth”，而是简单地变成“Blockchain”。`,
   },
-  "advanatages-title": {
+  "advantages-title": {
     en: 'What you get',
     de: 'Was Sie bekommen',
     es: 'Lo que obtienes',
