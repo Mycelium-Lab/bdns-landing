@@ -22,8 +22,11 @@ function changeLanguage() {
     let elem = document.querySelector(".lng-" + key);
     if (elem) {
       elem.innerHTML = langArr[key][hash];
-      elem.placeholder=`${langArr[key][hash]}`;
-    } 
+      elem.placeholder = `${langArr[key][hash]}`;
+    } if (elem && window.innerWidth < 768) {
+      elem.innerHTML = langArr[key][hash];
+      elem.placeholder = `${langArr[key][hash + 1]}`;
+    }
   }
 }
 
