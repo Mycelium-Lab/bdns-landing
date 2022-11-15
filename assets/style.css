@@ -200,14 +200,14 @@ option:focus {
   color: #c6a15a;
   line-height: 1;
   margin-top: 25px;
+  text-transform: uppercase;
 }
 
 .first-block__subtitle {
   font-size: 35px;
   font-weight: 800;
   color: #fff;
-  margin-bottom: 70px;
-  margin-bottom: 70px;
+  margin-bottom: 120px;
   display: block;
 }
 
