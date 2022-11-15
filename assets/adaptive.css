@@ -133,6 +133,7 @@
   }
   .btn-default {
     min-width: 233px;
+    min-width: 77%;
     height: 40px;
     font-size: 14px;
     line-height: 40px;
@@ -234,7 +235,8 @@
   }
 
   .form__search {
-    max-width: 233px;
+    /* max-width: 233px; */
+    max-width: 77%;
   }
 
   .form__btn {
