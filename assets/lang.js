@@ -95,4 +95,22 @@ const langArr = {
     es: 'Puede encontrar un análisis técnico y tokenómico más detallado en el Libro Blanco de BNDS o puede ponerse en contacto con nosotros en contact@bdns.app con cualquier pregunta. ¡Nos encanta escuchar a nuestros clientes! Do lo contrario, empiece a acuñar su dominio exclusivo basado en blockchain ahora mismo buscando su nombre preferido aquí.',
     ch: `如有任何问题，您可以在 BNDS 白皮书中找到更详细的技术和代币经济学分析，或者您可以通过 contact@bdns.app 与我们联系。我们喜欢听取客户的意见！否则，通过在此处搜索您的首选名称，立即创建您专属的基于区块链的仅名名域。`
   },
+  "placeholder-search": {
+    en: `Search for your blockchain domain name`,
+    de: `Suchen Sie nach Ihrem Blockchain-Domainnamen`,
+    es: `Busque su nombre de dominio de blockchain`,
+    ch: `搜索您的区块链域名`,
+  },
+  "btn-search": {
+    en: `GO TO dAPP`,
+    de: `GEHE ZU dAPP`,
+    es: `IR A dAPP`,
+    ch: `去dApp`,
+  },
+  "btn-input": {
+    en: `Search`,
+    de: `Suche`,
+    es: `Búsqueda`,
+    ch: `搜索`,
+  },
 };

@@ -18,14 +18,14 @@ $(document).ready(function () {
     $("html, body").animate({ scrollTop: dn }, 1000);
   });
 
-  if ($(window).innerWidth() < 768) {
-    $(".form__search input").attr("placeholder", "Search for your name");
-  } else {
-    $(".form__search input").attr(
-      "placeholder",
-      "Search for your blockchain domain name"
-    );
-  }
+  // if ($(window).innerWidth() < 768) {
+  //   $(".form__search input").attr("placeholder", "Search for your name");
+  // } else {
+  //   $(".form__search input").attr(
+  //     "placeholder",
+  //     "Search for your blockchain domain name"
+  //   );
+  // }
 
   $(".form__btn").on("click", function (evt) {
     evt.preventDefault();
