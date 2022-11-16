@@ -109,7 +109,7 @@ const langArr = {
     en: `GO TO dAPP`,
     de: `GEHE ZUR dAPP`,
     es: `IR A dAPP`,
-    ch: `去dApp`,
+    ch: `进入 DAPP`,
   },
   "btn-input": {
     en: `Search`,
