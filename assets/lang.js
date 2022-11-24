@@ -117,4 +117,48 @@ const langArr = {
     es: `Búsqueda`,
     ch: `搜索`,
   },
+  "footer-title1": {
+    en: `Join our community`,
+    ch: `加入我们的社区`,
+  },
+  "footer-title2": {
+    en: `Contact`,
+    ch: `联系`,
+  },
+  "footer-title3": {
+    en: `Links`,
+    ch: `链接`,
+  },
+  "footer__name-social1": {
+    en: `Join Discord`,
+    ch: `加入 Discord`,
+  },
+  "footer__name-social2": {
+    en: `Join Twitter`,
+    ch: `加入 Discord`,
+  },
+  "footer__name-social3": {
+    en: `Join Telegram`,
+    ch: `加入 Telegram`,
+  },
+  "footer-link1": {
+    en: `Whitepaper`,
+    ch: `白皮书`,
+  },
+  "footer-link2": {
+    en: `Github`,
+    ch: `Github`,
+  },
+  "footer-link3": {
+    en: `Documentation`,
+    ch: `文档`,
+  },
+  "footer-link4": {
+    en: `Privacy Policy`,
+    ch: `隐私政策`,
+  },
+  "footer-link5": {
+    en: `Terms of use`,
+    ch: `使用条款`,
+  },
 };
