@@ -142,8 +142,8 @@ const langArr = {
     ch: `加入 Telegram`,
   },
   "footer-link1": {
-    en: `Whitepaper`,
-    ch: `白皮书`,
+    en: `FAQ`,
+    ch: `常问问题`,
   },
   "footer-link2": {
     en: `Github`,
@@ -160,5 +160,21 @@ const langArr = {
   "footer-link5": {
     en: `Terms of use`,
     ch: `使用条款`,
+  },
+  "appbar-about": {
+    en: "About",
+    ch: "关于",
+  },
+  "appbar-faq": {
+    en: "FAQ",
+    ch: "常问问题",
+  },
+  "appbar-community": {
+    en: "Community",
+    ch: "社区",
+  },
+  "appbar-contacts": {
+    en: "Contacts",
+    ch: "联系",
   },
 };
