@@ -295,7 +295,11 @@ option:focus {
 .faq-header-logo-title {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 50px;
+}
+.faq-lang-switcher {
+  margin-top: 10px;
 }
 .faq-header-wrapper {
   display: flex;
