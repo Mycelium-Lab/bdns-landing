@@ -332,11 +332,11 @@ option:focus {
 .faq-list {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 50px;
 }
 .faq-item-header {
   color: #C6A15A;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
   font-size: 30px;
   font-weight: 800;
 }
