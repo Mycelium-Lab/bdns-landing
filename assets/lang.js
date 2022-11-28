@@ -105,6 +105,54 @@ const langArr = {
     es1: `Busque su nombre de dominio de blockchain`,
     ch1: `搜索您的区块链域名`,
   },
+  "faq-difference-title" : {
+    en: 'What’s the difference between BDNS and other NFT domain services?',
+    ch: 'BDNS与其它NFT域名服务有什么区别？'
+  },
+  "faq-wallet-address-title": {
+    en: 'Can I use NODs to set my wallet address?',
+    ch: '"我可以使用NOD来设置我的钱包地址吗？"'
+  },
+  "faq-team-title": {
+    en: 'Who are the BDNS team?',
+    ch: '谁是BDNS团队？'
+  },
+  "faq-scam-title": {
+    en: 'How do I know BDNS is not a scam?',
+    ch: '我如何知道BDNS不是个骗局？'
+  },
+  "faq-updates-title": {
+    en: 'Will BDNS launch new products and updates?',
+    ch: 'BDNS会推出新产品和更新吗？'
+  },
+  "faq-partners-title": {
+    en: 'How does BDNS select partners?',
+    ch: 'BDNS如何选择合作伙伴？'
+  },
+  "faq-difference" : {
+    en: 'The biggest difference is that BDNS NODs have no extension such as “.eth”. BDNS is also completely decentralized, meaning there is no private minting of NODs or reserved names (other than a list of brands and Trademarks in a very limited number of instances for a short period of time).  This flexibility means you can mint what you want to a much greater extent than with competing providers.',
+    ch: '最大的区别是BDNS NOD没有诸如“.eth”之类的扩展名。BDNS也是完全去中心化的。这意味着没有私人铸造NOD或者名称保留（除了在非常有限的情况下和在短时间内列出的品牌和商标列表）。这种灵活性意味着与竞争提供商相比，您可以在更大程度上铸造您想要的东西。'
+  },
+  "faq-wallet-address": {
+    en: 'Not at the present time. However, BDNS is actively developing partnerships with a number of blockchain developers now so that this feature will hopefully soon be on offer.',
+    ch: '目前还没有。但是，BDNS现在正在积极与许多区块链开发商建立合作伙伴关系，因此有望很快提供此功能。'
+  },
+  "faq-team": {
+    en: 'The BDNS team comprises a group of software developers, managers and entrepreneurs from around the world who have been working with Blockchain technology and with domain names for more than a decade. If you want to get to know us better, you can come and meet us in person on any of our social media platforms.',
+    ch: 'BDNS团队由一群来自世界各地的软件开发人员、管理人员和企业家组成。我们在区块链技术和域名领域有十多年的经验。如果您想更好地了解我们，可以在我们的任何社交媒体平台上亲自与我们见面。'
+  },
+  "faq-scam": {
+    en: 'A BDNS is the real deal but don\'t take our word for it if you\'re uncomfortable. Take your time, contact us directly, attend one of our live social media chats, meet the team and the founders, and only once you\'re convinced that we are here to stay should you buy a NOD. We are pretty sure you\'ll be satisfied that BDNS is for real if you follow all these steps.',
+    ch: 'BDNS是个真实的交易，但如果您有所顾虑，请不要直接相信我们的话。您可以先直接联系我们，参加我们的社交媒体直播聊天，会见团队和创始人。只有当您确信我们会在此行业长久存在，您才应该购买NOD。如果您遵循所有这些步骤，我们非常确定您会对BDNS的真实性感到满意。'
+  },
+  "faq-updates": {
+    en: 'Yes! In fact, one of the things that we are most excited about is building on top of NODs to create even more amazing applications. Building great software and partnering with like-minded developers are the main reasons we love Blockchain so much, so creating next-generation BDNS tools is our main priority alongside community development.',
+    ch: '是的！事实上，我们最兴奋的事情之一就是在NOD之上构建以创建更令人惊叹的应用程序。构建出色的软件并与志同道合的开发人员合作是我们如此热爱区块链的主要原因，因此创建下一代BDNS工具是我们与社区发展一起的首要任务。'
+  },
+  "faq-partners": {
+    en: 'We love great software and we want to build great solutions. This means that we will partner with both larger and smaller software providers.  We see the emergence of so much new software in Blockchain currently coming from unknown brands as being some of the most exciting aspects of web3 development. Equally, the scale and reach that larger Blockchain platforms have is appealing to us in terms of community development prospects. If you have a really cool product and are interested to partner with BDNS but are afraid we may not have heard of you yet, reach out to us by e-mail or contact us on any of our social media platforms.',
+    ch: '我们热衷于优良的软件，并且希望构建优良的解决方案。这意味着我们将与更大和更小的软件供应商合作。我们看到目前来自未知品牌的区块链中出现了如此多的新软件，这是web3开发中最令人兴奋的一些方面。就社区发展前景而言，更大的区块链平台所具有的规模和影响力也对我们有很大的吸引力。如果你有一个非常酷的产品并且有兴趣与BDNS合作，但担心我们可能还未对你有所闻，请通过电子邮件联系我们或在我们的任何社交媒体平台上联系我们。'
+  },
   "btn-search": {
     en: `GO TO dAPP`,
     de: `GEHE ZUR dAPP`,
