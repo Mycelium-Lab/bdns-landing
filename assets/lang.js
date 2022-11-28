@@ -153,6 +153,50 @@ const langArr = {
     en: 'We love great software and we want to build great solutions. This means that we will partner with both larger and smaller software providers.  We see the emergence of so much new software in Blockchain currently coming from unknown brands as being some of the most exciting aspects of web3 development. Equally, the scale and reach that larger Blockchain platforms have is appealing to us in terms of community development prospects. If you have a really cool product and are interested to partner with BDNS but are afraid we may not have heard of you yet, reach out to us by e-mail or contact us on any of our social media platforms.',
     ch: '我们热衷于优良的软件，并且希望构建优良的解决方案。这意味着我们将与更大和更小的软件供应商合作。我们看到目前来自未知品牌的区块链中出现了如此多的新软件，这是web3开发中最令人兴奋的一些方面。就社区发展前景而言，更大的区块链平台所具有的规模和影响力也对我们有很大的吸引力。如果你有一个非常酷的产品并且有兴趣与BDNS合作，但担心我们可能还未对你有所闻，请通过电子邮件联系我们或在我们的任何社交媒体平台上联系我们。'
   },
+  "tos-description-title": {
+    en: "1. Description",
+    ch: "1. 说明"
+  },
+  "tos-service-title": {
+    en: "2. Service",
+    ch: "2. 服务"
+  },
+  "tos-product-title": {
+    en: "3. Product",
+    ch: "3. 产品"
+  },
+  "tos-risk-title": {
+    en: "4. Financial Risk",
+    ch: "4. 财务风险"
+  },
+  "tos-purchase-title": {
+    en: "5. Non-Refundable Purchase",
+    ch: "5. 不可退款购买"
+  },
+  "tos-description": {
+    en: "This Terms of Service (TOS) Agreement is very important and you are advised to read it thoroughly. By visiting bdns.app and app.bdns.app and all links that are attached to this site (the website) you agree that you have read it thoroughly and to be bound by its contents.",
+    ch: "本服务条款(TOS)协议非常重要，建议您仔细阅读。通过访问 bdns.app和 app.bdns.app 以及附加到本网站的所有链接，您同意您已仔细阅读并受其内容的约束。"
+  },
+  "tos-service": {
+    en: "BDNS operates a non-fungible token (NFT) purchase platform with a decentralized application (Dapp) that enables the purchase of NFTs via the website. The NFTs are called Name-Only Domains (NODs).",
+    ch: "BDNS运营一个非同质代币(NFT)的购买平台，该平台带有一个去中心化应用程序(Dapp)，可以通过网站购买NFT。此NFT称为仅名名域(NOD)。"
+  },
+  "tos-product": {
+    en: "NODs are intended to be configured to a variety of Dapps as a core component of web3 infrastructure.",
+    ch: "NOD旨在作为web3基础设施的核心组件，配置到各种Dapps。"
+  },
+  "tos-risk": {
+    en: "NODs are not designed to be purchased as an investment or for speculative purposes. No liability will be accepted by BDNS for any loss of money in making the purchase of a NOD.",
+    ch: "NOD并非旨在作为投资或投机目的购买。BDNS不承担对在购买NOD过程中造成的任何金钱损失。"
+  },
+  "tos-purchase": {
+    en: "Users who purchase a NOD are not entitled to seek a refund, product replacement or any sort of financial recompense after the purchase has been made under any condition whatsoever.",
+    ch: "购买NOD的用户无权在任何情况下购买后寻求退款、产品更换或任何形式的经济补偿。"
+  },
+  "tos-header": {
+    en: "Terms of Service",
+    ch: "服务条款"
+  },
   "btn-search": {
     en: `GO TO dAPP`,
     de: `GEHE ZUR dAPP`,
