@@ -90,10 +90,10 @@ const langArr = {
     ch: `阅读，连接，铸造`,
   },
   "advantages-text5": {
-    en: 'You can find more detailed technical and tokenomics analysis in the BNDS White Paper or you can contact us at contact@bdns.app with any questions. We love to hear from our customers! Otherwise, get minting your exclusive blockchain-based name-only domain right now by searching your preferred name here.',
+    en: 'You can contact us at contact@bdns.app with any questions. We love to hear from our customers! Otherwise, get minting your exclusive blockchain-based name-only domain right now by searching your preferred name here.',
     de: 'Eine detaillierte technische und tokenomische Analyse finden Sie im BDNS-Whitepaper, oder Sie können uns bei Fragen unter contact@bdns.app kontaktieren. Wir freuen uns, von unseren Kunden zu hören! Andernfalls können Sie jetzt Ihre exklusive Blockchain-basierte Namensdomain prägen, indem Sie hier Ihren Wunschnamen suchen.',
     es: 'Puede encontrar un análisis técnico y tokenómico más detallado en el Libro Blanco de BNDS o puede ponerse en contacto con nosotros en contact@bdns.app con cualquier pregunta. ¡Nos encanta escuchar a nuestros clientes! Do lo contrario, empiece a acuñar su dominio exclusivo basado en blockchain ahora mismo buscando su nombre preferido aquí.',
-    ch: `如有任何问题，您可以在 BNDS 白皮书中找到更详细的技术和代币经济学分析，或者您可以通过 contact@bdns.app 与我们联系。我们喜欢听取客户的意见！否则，通过在此处搜索您的首选名称，立即创建您专属的基于区块链的仅名名域。`
+    ch: `如有问题，您可以通过contact@bdns.app与我们联系。我们喜欢听取客户的意见！否则，通过在此处搜索您的首选名称，立即创建您专属的基于区块链的仅名名域。`
   },
   "placeholder-search": {
     en: `Search for your blockchain domain name`,
@@ -135,7 +135,7 @@ const langArr = {
   },
   "footer__name-social2": {
     en: `Join Twitter`,
-    ch: `加入 Discord`,
+    ch: `加入 Twitter`,
   },
   "footer__name-social3": {
     en: `Join Telegram`,
