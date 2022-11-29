@@ -197,6 +197,10 @@ const langArr = {
     en: "Terms of Service",
     ch: "服务条款"
   },
+  "faq-header": {
+    en: "FAQ",
+    ch: "常问问题"
+  },
   "btn-search": {
     en: `GO TO dAPP`,
     de: `GEHE ZUR dAPP`,
